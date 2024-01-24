@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644783969491",
+    "project_id": "tour-guide-6f372",
+    "storage_bucket": "tour-guide-6f372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644783969491:android:019ede34817f924fc6b026",
+        "android_client_info": {
+          "package_name": "com.example.tour_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVnpP9__kgnRQyMiCBHOXZJ_Bu3zT-vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
